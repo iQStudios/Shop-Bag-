@@ -8,8 +8,14 @@
     "start": "next start"
   },
   "dependencies": {
+    "@zeit/next-sass": "^1.0.1",
+    "autoprefixer": "^10.0.4",
     "next": "10.0.3",
+    "node-sass": "^4.7.2",
+    "postcss": "^8.2.0",
     "react": "17.0.1",
-    "react-dom": "17.0.1"
+    "react-dom": "17.0.1",
+    "swiper": "^6.4.0",
+    "tailwindcss": "^2.0.1"
   }
 }
